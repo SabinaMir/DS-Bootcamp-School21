@@ -1,0 +1,37 @@
+import sys
+
+def main():
+    COMPANIES = {
+    'Apple': 'AAPL',
+    'Microsoft': 'MSFT',
+    'Netflix': 'NFLX',
+    'Tesla': 'TSLA',
+    'Nokia': 'NOK'
+    }
+    STOCKS = {
+    'AAPL': 287.73,
+    'MSFT': 173.79,
+    'NFLX': 416.90,
+    'TSLA': 724.88,
+    'NOK': 3.37
+  }
+
+    if len(sys.argv) !=2:  
+        return
+    company_name = sys.argv[1]
+    if company_name in COMPANIES:
+        ticker = COMPANIES[company_name]
+        price = STOCKS[ticker]
+        print(price) 
+    else:
+        print("Unknown company")
+
+def get_company_name(ticker):
+    # Находим название компании, соответствующее тикеру
+    for company, company_ticker in COMPANIES.items():
+        if company_ticker == ticker:
+            return company
+    return None        
+    
+if __name__== "__main__":
+    main()            
