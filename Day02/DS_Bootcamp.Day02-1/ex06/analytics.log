@@ -1,0 +1,95 @@
+2025-01-05 00:47:37 Research initialized with file: data.csv
+2025-01-05 00:47:37 Reading file.
+2025-01-05 00:47:37 Error occurred: [Errno 2] No such file or directory: 'data.csv'
+2025-01-05 00:47:37 Sending Telegram message.
+2025-01-05 00:47:55 Research initialized with file: data.csv
+2025-01-05 00:47:55 Reading file.
+2025-01-05 00:47:55 Error occurred: [Errno 2] No such file or directory: 'data.csv'
+2025-01-05 00:47:55 Sending Telegram message.
+2025-01-05 00:48:40 Research initialized with file: data.csv
+2025-01-05 00:48:40 Reading file.
+2025-01-05 00:48:40 File read successfully: 11 lines.
+2025-01-05 00:48:40 Calculations initialized.
+2025-01-05 00:48:40 Calculating counts.
+2025-01-05 00:48:40 Counts calculated: Heads=5, Tails=6
+2025-01-05 00:48:40 Calculating fractions.
+2025-01-05 00:48:40 Calculating counts.
+2025-01-05 00:48:40 Counts calculated: Heads=5, Tails=6
+2025-01-05 00:48:40 Fractions calculated: Heads=45.45454545454545%, Tails=54.54545454545454%
+2025-01-05 00:48:40 Generating 3 random predictions.
+2025-01-05 00:48:40 Random predictions generated: [[1, 0], [0, 1], [1, 0]]
+2025-01-05 00:48:40 Saving data to file: report.txt
+2025-01-05 00:48:40 Data saved to report.txt.
+2025-01-05 00:48:40 Sending Telegram message.
+2025-01-05 00:48:40 Error occurred: name 'config' is not defined
+2025-01-05 00:48:40 Sending Telegram message.
+2025-01-05 00:54:24 Research initialized with file: data.csv
+2025-01-05 00:54:24 Reading file.
+2025-01-05 00:54:24 File read successfully: 11 lines.
+2025-01-05 00:54:24 Calculations initialized.
+2025-01-05 00:54:24 Calculating counts.
+2025-01-05 00:54:24 Counts calculated: Heads=5, Tails=6
+2025-01-05 00:54:24 Calculating fractions.
+2025-01-05 00:54:24 Calculating counts.
+2025-01-05 00:54:24 Counts calculated: Heads=5, Tails=6
+2025-01-05 00:54:24 Fractions calculated: Heads=45.45454545454545%, Tails=54.54545454545454%
+2025-01-05 00:54:24 Generating 3 random predictions.
+2025-01-05 00:54:24 Random predictions generated: [[0, 1], [0, 1], [1, 0]]
+2025-01-05 00:54:24 Saving data to file: report.txt
+2025-01-05 00:54:24 Data saved to report.txt.
+2025-01-05 00:54:24 Sending Telegram message.
+2025-01-05 00:54:24 Error occurred: name 'config' is not defined
+2025-01-05 00:54:24 Sending Telegram message.
+2025-01-05 00:55:49 Research initialized with file: data.csv
+2025-01-05 00:55:49 Reading file.
+2025-01-05 00:55:49 File read successfully: 11 lines.
+2025-01-05 00:55:49 Calculations initialized.
+2025-01-05 00:55:49 Calculating counts.
+2025-01-05 00:55:49 Counts calculated: Heads=5, Tails=6
+2025-01-05 00:55:49 Calculating fractions.
+2025-01-05 00:55:49 Calculating counts.
+2025-01-05 00:55:49 Counts calculated: Heads=5, Tails=6
+2025-01-05 00:55:49 Fractions calculated: Heads=45.45454545454545%, Tails=54.54545454545454%
+2025-01-05 00:55:49 Generating 3 random predictions.
+2025-01-05 00:55:49 Random predictions generated: [[0, 1], [0, 1], [0, 1]]
+2025-01-05 00:55:49 Saving data to file: report.txt
+2025-01-05 00:55:49 Data saved to report.txt.
+2025-01-05 00:55:49 Sending Telegram message.
+2025-01-05 00:55:49 Error occurred: name 'config' is not defined
+2025-01-05 00:55:49 Sending Telegram message.
+2025-01-05 01:05:09 Research initialized with file: data.csv
+2025-01-05 01:05:09 Reading file.
+2025-01-05 01:05:09 File read successfully: 11 lines.
+2025-01-05 01:05:09 Analytics initialized.
+2025-01-05 01:05:09 Calculating counts.
+2025-01-05 01:05:09 Counts: Heads=5, Tails=6
+2025-01-05 01:05:09 Calculating fractions.
+2025-01-05 01:05:09 Calculating counts.
+2025-01-05 01:05:09 Counts: Heads=5, Tails=6
+2025-01-05 01:05:09 Fractions: Heads=45.45454545454545%, Tails=54.54545454545454%
+2025-01-05 01:05:09 Generating 3 random predictions.
+2025-01-05 01:05:09 Random predictions: [[0, 1], [1, 0], [1, 0]]
+2025-01-05 01:05:09 Saving data to file: report.txt
+2025-01-05 01:05:09 Data saved to report.txt.
+2025-01-05 01:05:09 Sending Telegram message.
+2025-01-05 01:05:09 Starting new HTTPS connection (1): api.telegram.org:443
+2025-01-05 01:05:10 https://api.telegram.org:443 "POST /bot7531777328:AAHu9QlYOtCtqxDNMXOBx1l03AgFh-Wvwok/sendMessage HTTP/11" 200 305
+2025-01-05 01:05:10 Telegram message sent successfully.
+2025-01-05 20:41:57 Research initialized with file: data.csv
+2025-01-05 20:41:57 Reading file.
+2025-01-05 20:41:57 File read successfully: 11 lines.
+2025-01-05 20:41:57 Analytics initialized.
+2025-01-05 20:41:57 Calculating counts.
+2025-01-05 20:41:57 Counts: Heads=5, Tails=6
+2025-01-05 20:41:57 Calculating fractions.
+2025-01-05 20:41:57 Calculating counts.
+2025-01-05 20:41:57 Counts: Heads=5, Tails=6
+2025-01-05 20:41:57 Fractions: Heads=45.45454545454545%, Tails=54.54545454545454%
+2025-01-05 20:41:57 Generating 3 random predictions.
+2025-01-05 20:41:57 Random predictions: [[0, 0], [1, 0], [1, 1]]
+2025-01-05 20:41:57 Saving data to file: report.txt
+2025-01-05 20:41:57 Data saved to report.txt.
+2025-01-05 20:41:57 Sending Telegram message.
+2025-01-05 20:41:57 Starting new HTTPS connection (1): api.telegram.org:443
+2025-01-05 20:41:58 https://api.telegram.org:443 "POST /bot7531777328:AAHu9QlYOtCtqxDNMXOBx1l03AgFh-Wvwok/sendMessage HTTP/11" 200 306
+2025-01-05 20:41:58 Telegram message sent successfully.
